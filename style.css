@@ -1,11 +1,13 @@
+html{
+    background-color: rgb(204, 204, 204);
+}
 h1{
     display: flex;
-    background-color: gainsboro;
     justify-content: center;
     align-items: center;
-    height: 150px;
+    height: 100px;
 }
-#button{
+#Addbutton{
     display: flex;
     justify-content: center;
 
